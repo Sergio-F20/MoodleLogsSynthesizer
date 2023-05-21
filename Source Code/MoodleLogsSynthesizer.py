@@ -806,9 +806,7 @@ def clear_window():
 window = tk.Tk()
 window.title("Moodle Logs Synthesizer")
 
-# Set desired Tkinter Window Size.
-# window.geometry("600x285")
-
+# Window Size
 w = 600  # width for the Tk root
 h = 285  # height for the Tk root
 
